@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Wild Ginger Dinner Delivery Tablet App with TimePicker</string>
+    <string name="ginger">Ginger Image</string>
+    <string name="txtTitle">Wild Ginger</string>
+    <string name="txtDescription">Wild Ginger is healthy for you</string>
+    <string name="delivery">delivery</string>
+    <string name="btnTime">Time</string>
+</resources>
